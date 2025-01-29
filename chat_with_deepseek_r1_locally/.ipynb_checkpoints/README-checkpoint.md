@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### 3. Pull and Run DeepSeek-r1 Using Ollama  
 Download and set up the DeepSeek-r1 model locally:  
 ```bash  
-ollama pull deepseek-r1:1.5b
+ollama pull deepseek-r1:1.5
 ```  
 
 ### 4. Run the Reflex App  
